@@ -94,7 +94,7 @@ pywinpty==2.0.10
 PyYAML==6.0
 pyzmq==25.1.0
 readme-renderer==37.3
-requests==2.29.0
+requests==2.31.0
 requests-toolbelt==0.10.1
 rfc3339-validator==0.1.4
 rfc3986==1.5.0
